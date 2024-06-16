@@ -45,9 +45,9 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 #### How it looks
 
-# This is an `<h1>` header, which is the largest
+# Hello Myself sachin jha.
 
-## This is an `<h2>` header
+## I am currently completed my bsc computer science
 
 ###### This is an `<h6>` header, which is the smallest
 
